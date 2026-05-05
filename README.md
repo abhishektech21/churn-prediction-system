@@ -43,7 +43,7 @@ churn-prediction-system/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/churn-prediction-system.git
+git clone https://github.com/YOUR_USERNAME/churn-prediction-system.gi
 cd churn-prediction-system
 ```
 
@@ -206,5 +206,5 @@ It is containerized using Docker and hosted on a cloud platform.
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/YOUR_USERNAME
+Your Name: Abhishek
+GitHub: https://github.com/abhishektech21
